@@ -1,1 +1,12 @@
-Tessera is an AI-powered study tool built for medical students preparing for Step 1 and Step 2 CK. Paste in a textbook chapter, article, or lecture notes, and the app generates a structured lesson with progressive clinical simulations, distractor-focused explanations, and high-yield board pearls
+# Tessera
+
+Adaptive clinical education — Learn → Pearls → Cases.
+
+## Setup
+
+```bash
+npm install
+npm run dev
+```
+
+Requires an Anthropic API key accessible from the Claude.ai artifact environment, or configure your own proxy.
