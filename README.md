@@ -1,7 +1,3 @@
-# Tessera
-
-Adaptive clinical education — Learn → Pearls → Cases.
-
 ## Setup
 
 ```bash
